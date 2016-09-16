@@ -1,6 +1,7 @@
 Git is a version control system.
 Git is free software.
 Creating a new branch is quick and simple.
-master
+<<<<<<< HEAD
+1
 2
-2
+
